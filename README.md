@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Denislav Angelov
 
-I'm a 14-year-old developer from Bulgaria. My primary focus right now is **frontend web development**, but I'm also learning **C#** at school.
+I'm a 15-year-old developer from Bulgaria. My primary focus right now is **frontend web development**, but I'm also learning **C#** at school.
 
 ## 🛠️ Skills & Tools
 
