@@ -1,47 +1,46 @@
-## 👋 Hi, I'm Denislav Angelov
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=denislavdev.denislavdev&left_text=Profile%20views"  />
+</div>
 
-I'm a 15-year-old developer from Bulgaria. My primary focus right now is **frontend web development**, but I'm also learning **C#** at school.
+###
 
-## 🛠️ Skills & Tools
+<h1 align="left">Hello, I'm Denislav, a web developer 👋🏼</h1>
 
-I’m continuously learning and expanding my toolkit, with a focus on the following areas:
+###
 
-### Frontend:
+<p align="left">I'm a web developer from Europe, and I'm currently learning JavaScript. I'm also working on my CSS skills and checking out cool frameworks like TailwindCSS and AstroJS. Plus, I tackle real-life challenges through FrontendMentor projects.</p>
 
-- **HTML**
-- **CSS**
-- **JavaScript**
+###
 
-### C#:
+<h2 align="left">I code with</h2>
 
-- Currently learning **C#** to build basic console applications and understand key programming concepts and algorithms.
+###
 
-Feel free to explore my profile and see what I’m currently working on!
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+</div>
 
-## 🌱 What I’m Working On
+###
 
-At the moment, I’m focusing on two main areas:
+<img src="https://raw.githubusercontent.com/denislavdev/denislavdev/output/snake.svg" alt="Snake animation" />
 
-- **Frontend Development**:
+###
 
-  - Using **HTML** to build website structures.
-  - Styling and creating responsive layouts with **CSS**.
-  - Adding interactivity and functionality using **JavaScript**.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=denislavdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=denislavdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-- **C#**:
-  - I’m learning **C#** through school, starting with basic console applications.
-
-## 🌟 My Projects
-
-Here are some of the projects I’ve worked on recently:
-
-- **[Frontend Mentor Challenges](https://www.frontendmentor.io/profile/denislavangelov09)**: I’ve been completing various challenges to improve my skills.
-- **C# Projects**: I’m beginning to develop simple C# apps as part of my learning.
-
-## 🚀 What’s Next?
-
-I have several goals for the future and a lot I’m eager to learn:
-
-- Continue improving my frontend skills and work on more complex projects.
-- Deepen my understanding of **C#** and explore building desktop and web applications.
-- Find opportunities to monetize my skills.
+###
